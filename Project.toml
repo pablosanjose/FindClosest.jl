@@ -1,0 +1,13 @@
+name = "FindClosest"
+uuid = "ce6c7843-e314-4a0c-820f-2e6f904d3a2a"
+authors = ["Pablo San-Jose <pablo.sanjose@csic.es>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
